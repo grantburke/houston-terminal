@@ -1,0 +1,23 @@
+{
+	"name": "Houston",
+	"background": "#17191e",
+	"black": "#17191e",
+	"blue": "#2b7eca",
+	"brightBlack": "#545864",
+	"brightBlue": "#54b9ff",
+	"brightCyan": "#00daef",
+	"brightGreen": "#4bf3c8",
+	"brightPurple": "#cc75f4",
+	"brightRed": "#f4587e",
+	"brightWhite": "#fafafa",
+	"brightYellow": "#ffd493",
+	"cursorColor": "#ffffff",
+	"cyan": "#24c0cf",
+	"foreground": "#cccccc",
+	"green": "#23d18b",
+	"purple": "#ad5dca",
+	"red": "#dc3657",
+	"selectionBackground": "#666666",
+	"white": "#eef0f9",
+	"yellow": "#ffc368"
+}
